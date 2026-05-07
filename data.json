@@ -1,0 +1,96 @@
+{
+  "presets": {
+    "fc-good": [
+      "Em duy trì được tốc độ nói đều và liền mạch, có khả năng nói dài (long turn) mà không cần hỗ trợ thêm.",
+      "Các điểm dừng chủ yếu để tổ chức ý, không phải để tìm từ hay cấu trúc — đây là dấu hiệu fluency tốt.",
+      "Em ít khi phải tự sửa giữa câu hoặc lặp lại để câu giờ, mạch nói trôi đều.",
+      "Em phát triển câu trả lời rộng, không chỉ trả lời thẳng câu hỏi mà còn mở rộng thêm bằng lý do, ví dụ và chi tiết.",
+      "Em sử dụng được nhiều cohesive devices (linking words, discourse markers) khác nhau và đúng ngữ cảnh.",
+      "Các ý em trình bày có sự liên kết logic, người nghe theo dõi được dễ dàng từ ý này sang ý khác.",
+      "Em xử lý các điểm cần dừng bằng filler tự nhiên thay vì im lặng kéo dài."
+    ],
+    "fc-bad": [
+      "Còn nhiều điểm dừng giữa câu để tìm từ hoặc cấu trúc. Em luyện nói theo chunks (cụm từ/cụm cố định) thay vì từng từ riêng lẻ sẽ giảm dần được tình trạng này.",
+      "Em quay lại tự sửa câu khá thường xuyên, ảnh hưởng đến độ trôi chảy. Em thử để câu trôi qua dù có lỗi nhỏ rồi diễn đạt lại ý ở câu sau — band Fluency ưu tiên mạch nói liền mạch.",
+      "Em lặp lại từ và cấu trúc khá nhiều. Em chuẩn bị sẵn 2-3 cách diễn đạt cho mỗi tình huống phổ biến (đồng tình, không đồng tình, mô tả, so sánh...) sẽ chủ động hơn khi nói.",
+      "Một số câu trả lời em chưa phát triển đủ ý, mới dừng ở thông tin cơ bản. Em luyện kỹ thuật mở rộng theo công thức \"Trả lời + Lý do + Ví dụ/Chi tiết\" cho cả Part 1 và Part 3.",
+      "Em chưa duy trì được long turn ở Part 2, hay bị \"đứt\" giữa chừng. Em luyện trả lời cue card với timer 2 phút mỗi ngày, không sợ lặp ý, miễn là nói liên tục.",
+      "Linking words em sử dụng còn hạn chế, chủ yếu xoay quanh and/but/so. Em bổ sung dần các nhóm: bổ sung (moreover, furthermore), tương phản (however, on the other hand), nguyên nhân-kết quả (because of, as a result, consequently).",
+      "Một vài chỗ em dùng linking word chưa đúng ngữ cảnh hoặc không đúng nghĩa. Em chú ý học nghĩa và sắc thái của từng linking word, không học chung chung theo nhóm.",
+      "Có chỗ em chuyển ý đột ngột mà không có từ nối hoặc dẫn dắt. Em luyện thói quen mở mỗi ý mới bằng một cụm dẫn (\"Speaking of...\", \"Another thing is...\", \"On top of that...\").",
+      "Em phụ thuộc vào \"umm/ahh\" khá nhiều. Em thử thay bằng filler có ý nghĩa như \"Well,...\", \"Let me think...\", \"You know,...\" — vừa câu giờ vừa nghe tự nhiên."
+    ],
+    "lr-good": [
+      "Vốn từ của em đủ rộng để diễn đạt nhiều ý tưởng khác nhau mà không bị \"kẹt\".",
+      "Em sử dụng được một số less common items thay vì chỉ dùng từ phổ thông.",
+      "Em dùng được nhiều collocations chính xác, nghe tự nhiên.",
+      "Em có sử dụng idiomatic expressions đúng ngữ cảnh, không gồng cứng.",
+      "Em paraphrase tốt — biết diễn đạt cùng một ý theo nhiều cách khác nhau, không lặp lại nguyên văn từ đề bài.",
+      "Word choice của em chính xác, truyền tải đúng nghĩa em muốn nói.",
+      "Em biết hedge khi không chắc chắn (kind of, sort of, somewhat...) phù hợp với register Speaking.",
+      "Em chọn từ phù hợp với ngữ cảnh hội thoại, không quá formal hay quá colloquial."
+    ],
+    "lr-bad": [
+      "Vốn từ của em còn hạn chế, có chỗ em phải nói vòng vì không có từ chính xác để diễn đạt. Em xây vốn từ theo nhóm chủ đề thường gặp, học theo cụm thay vì từ riêng lẻ.",
+      "Một số chỗ em chọn từ chưa thật chính xác về nghĩa, người nghe phải đoán ý. Em check nghĩa và cách dùng trên từ điển ngữ cảnh (Cambridge, Oxford) thay vì chỉ tra Việt-Anh.",
+      "Em lặp lại nhiều từ trong cùng một câu trả lời. Em luyện kỹ thuật paraphrase: với mỗi từ phổ biến, học sẵn 2-3 từ đồng nghĩa hoặc cách diễn đạt khác để chủ động thay thế.",
+      "Em dựa khá nhiều vào các từ cơ bản (good, bad, big, small, very...). Em thay dần bằng các từ cụ thể hơn theo từng ngữ cảnh — đây là cách hiệu quả nhất để nâng range.",
+      "Một số collocations còn chưa chuẩn. Em học từ mới theo cụm cố định (verb + noun, adjective + noun) thay vì học từng từ riêng lẻ rồi tự ghép — collocation sai gây cảm giác \"non-native\" rõ rệt.",
+      "Em chưa paraphrase được câu hỏi mà còn lặp lại nguyên văn từ đề bài. Em luyện thói quen đổi 1-2 từ key trong câu hỏi trước khi trả lời, ví dụ đổi từ về danh từ hoặc đảo cấu trúc.",
+      "Em chưa sử dụng idiomatic items, làm bài nói nghe hơi đơn điệu. Em không cần học nhiều — một số idiom phổ biến và dùng đúng ngữ cảnh là đủ, dùng ít mà chuẩn còn hơn dùng nhiều mà gượng.",
+      "Một số chỗ em dùng từ quá formal hoặc quá colloquial so với register hội thoại. Speaking là cuộc hội thoại lịch sự với người lạ — em giữ tone trung tính, tránh slang nặng và cũng tránh từ academic quá hàn lâm."
+    ],
+    "gra-good": [
+      "Em sử dụng được hỗn hợp giữa câu đơn và câu phức, không chỉ dùng một loại cấu trúc.",
+      "Mệnh đề quan hệ và mệnh đề trạng ngữ em sử dụng tự nhiên trong nhiều câu.",
+      "Em sử dụng các thì khá linh hoạt và đúng theo ngữ cảnh.",
+      "Em dùng được câu điều kiện để diễn đạt giả định.",
+      "Em sử dụng modal verbs đa dạng và đúng sắc thái.",
+      "Em đan xen được câu bị động một cách tự nhiên trong bài.",
+      "Phần lớn câu của em error-free, đặc biệt ở các cấu trúc cơ bản.",
+      "Khi có lỗi xảy ra, lỗi không cản trở việc truyền đạt ý — đây là điểm quan trọng theo descriptor."
+    ],
+    "gra-bad": [
+      "Lỗi sự hoà hợp chủ ngữ-động từ (đặc biệt là \"s\" ngôi 3 số ít) còn xuất hiện rải rác. Em luyện nói to nhiều câu mẫu mỗi ngày để biến quy tắc này thành phản xạ.",
+      "Em sử dụng thì chưa nhất quán, đặc biệt khi nói về sự kiện trong quá khứ. Em chú ý các time markers (yesterday, last X, X ago, when I was...) — có time marker thì phải về thì quá khứ ngay.",
+      "Mạo từ a/an/the em còn sai hoặc thiếu trong nhiều câu. Em ôn lại 3 trường hợp dùng \"the\" thường gặp: nhắc đến lần thứ hai, danh từ duy nhất, danh từ đã được xác định trong ngữ cảnh.",
+      "Câu của em đa số là câu đơn. Em luyện kết hợp các liên từ phụ thuộc (because, although, when, if, while...) để tự nhiên tạo câu phức trong khi nói.",
+      "Khi em cố dùng cấu trúc phức tạp, accuracy bị giảm và câu trở nên khó hiểu. Em ưu tiên độ chính xác trước, độ phức tạp sau — câu đúng đơn giản tốt hơn câu sai phức tạp.",
+      "Em còn nhầm danh từ đếm được/không đếm được. Em note danh sách các danh từ không đếm được phổ biến (information, advice, equipment, knowledge, news, research, furniture...) là sẽ tránh được phần lớn lỗi.",
+      "Một số chỗ em dùng giới từ chưa đúng. Em học giới từ theo cụm cố định (depend on, interested in, good at, afraid of...) thay vì học giới từ riêng lẻ.",
+      "Trật tự từ trong một số câu còn chưa đúng, đặc biệt ở câu hỏi gián tiếp và câu phủ định. Em luyện nhiều câu mẫu cho từng cấu trúc để biến thành phản xạ.",
+      "Câu điều kiện em còn nhầm cách dùng \"would\" với \"would have\". Em ôn lại quy tắc: would + V (giả định hiện tại/tương lai), would have + V3 (giả định trái với quá khứ)."
+    ],
+    "p-good": [
+      "Phát âm của em rõ ràng, người nghe hiểu được toàn bộ bài nói mà không cần đoán.",
+      "Trọng âm từ em đặt đúng, đặc biệt với các từ nhiều âm tiết.",
+      "Em nhấn trọng âm vào các content word trong câu, không nhấn đều như đọc.",
+      "Ngữ điệu của em có lên xuống tự nhiên, không bị flat.",
+      "Em sử dụng được các features của connected speech như linking và weak forms.",
+      "Các âm cá nhân (vowels, consonants) em phát rõ ràng, ít bị nhầm lẫn nghĩa.",
+      "Em ngắt câu theo cụm ý hợp lý, nhịp điệu nói đúng kiểu stress-timed của tiếng Anh."
+    ],
+    "p-bad": [
+      "Âm cuối em hay bỏ — đây là điểm cần ưu tiên cải thiện vì ảnh hưởng đến cả độ rõ ràng lẫn ngữ pháp (số nhiều, thì quá khứ). Em luyện đọc to và phóng đại âm cuối /s/ /z/ /t/ /d/ /id/ trong vài tuần đầu để hình thành thói quen.",
+      "Trọng âm từ một số chỗ em đặt sai, làm thay đổi nghĩa hoặc gây khó hiểu. Em check phiên âm trên Cambridge Dictionary mỗi từ mới và đọc to nhấn đúng trọng âm khi học.",
+      "Ngữ điệu còn hơi flat, các câu hỏi và câu khẳng định nghe giống nhau. Em luyện shadowing với audio bản xứ (BBC, VOA, podcast) để bắt được pattern lên-xuống tự nhiên.",
+      "Một số âm em phát chưa chuẩn, đặc biệt là các âm không có trong tiếng Việt như /θ/, /ð/, /r/, /æ/, /ʌ/. Em luyện riêng từng âm theo video phát âm chuẩn 5-10 phút mỗi ngày — đây là kỹ thuật, luyện đều là làm được.",
+      "Nhịp điệu nói còn theo kiểu syllable-timed (đều từng âm). Tiếng Anh là stress-timed — em chú ý nhấn rõ content word (noun, verb, adjective, adverb), lướt nhẹ function word (a, the, of, in...) để đúng nhịp.",
+      "Em phát âm từng từ rời rạc, chưa có nối âm hay rút gọn. Em luyện shadowing với podcast/audio bản xứ mỗi ngày — bắt chước cách nối âm và weak forms của họ.",
+      "Có ảnh hưởng từ tiếng mẹ đẻ ở một số âm. Em chú ý phân biệt phonemes tiếng Anh với âm gần giống trong tiếng Việt — không thay thế bằng âm Việt vì sẽ ảnh hưởng intelligibility.",
+      "Một số cặp nguyên âm dài/ngắn em phát giống nhau, làm khó phân biệt nghĩa. Em luyện minimal pairs (ship/sheep, fit/feet, cat/cut, full/fool...) để rèn cảm giác phân biệt.",
+      "Một số đoạn người nghe phải nỗ lực để hiểu. Em chú ý nói chậm và rõ hơn ở những câu quan trọng — ưu tiên độ rõ ràng hơn tốc độ."
+    ]
+  },
+  "encouragements": [
+    "Em đọc lại feedback thật kỹ và note các điểm cần cải thiện vào sổ nhé. Sau đó luyện tập đều đặn mỗi ngày — đây là cách hiệu quả nhất để tiến bộ. Cố gắng nhé em!",
+    "Em xem kỹ từng lỗi và phần phân tích ở trên, rồi áp dụng vào các bài luyện tập tiếp theo. Cứ kiên trì luyện đều, kết quả chắc chắn sẽ đến. Cố lên em!",
+    "Em đọc kỹ feedback, chọn ra 2-3 điểm quan trọng nhất để tập trung cải thiện trong tuần này. Đừng cố sửa hết một lúc — luyện tập có trọng tâm sẽ hiệu quả hơn. Cố gắng nhé!",
+    "Feedback chỉ phát huy giá trị khi em đọc kỹ và chủ động luyện tập. Em note lại các từ vựng/cấu trúc/phát âm mới rồi áp dụng vào bài speaking tiếp theo nhé. Cố lên em!",
+    "Em xem lại từng điểm trên thật kỹ, đặc biệt là phần phát âm và sửa lỗi ngữ pháp. Luyện tập thường xuyên và đều đặn là chìa khoá. Cố gắng nhé em!",
+    "Em đọc feedback, ghi chú vào sổ học tập rồi luyện lại bài speaking với những góp ý này. Tiến bộ đến từ việc thực hành — không chỉ đọc xong là xong nhé. Cố lên em!",
+    "Em dành 10-15 phút đọc kỹ feedback, sau đó tự luyện lại bài hôm nay một lần nữa với các điểm đã được góp ý. Luyện tập đều đặn em sẽ thấy tiến bộ rõ rệt. Cố gắng nhé!"
+  ],
+  "lastUpdated": "2026-05-07T12:45:04.654Z",
+  "version": 1
+}
