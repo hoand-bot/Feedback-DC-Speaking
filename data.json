@@ -43,21 +43,14 @@
       "Phát âm của em khá rõ ràng, người nghe có thể hiểu được toàn bộ bài nói mà không cần đoán ý.",
       "Em đặt trọng âm từ khá chính xác, đặc biệt với các từ nhiều âm tiết.",
       "Ngữ điệu của em có sự lên xuống tự nhiên, không bị flat, giúp câu nói có cảm xúc và dễ nghe hơn. Ngoài ra, em cũng đã biết nhấn vào các content words trong câu thay vì đọc đều từng từ.",
-      "Em đã sử dụng được một số features của connected speech, đồng thời biết ngắt câu theo cụm ý khá hợp lý nên nhịp điệu nói tương đối tự nhiên.",
-      "Em sử dụng được các features của connected speech như linking và weak forms.",
-      "Các âm cá nhân (vowels, consonants) em phát rõ ràng, ít bị nhầm lẫn nghĩa.",
-      "Em ngắt câu theo cụm ý hợp lý, nhịp điệu nói đúng kiểu stress-timed của tiếng Anh."
+      "Em đã sử dụng được một số đặc điểm của nối âm, đồng thời biết ngắt câu theo cụm ý khá hợp lý nên nhịp điệu nói tương đối tự nhiên."
     ],
     "p-bad": [
-      "Một số từ cần được chỉnh cho chính xác hơn để tránh gây ảnh hưởng đến khả năng nghe hiểu của người nghe. Em nên chú ý học phát âm chuẩn ngay từ đầu bằng cách tra phiên âm trong từ điển (Cambridge/Oxford) và luyện lại nhiều lần theo audio mẫu, đặc biệt với các từ hay dùng để tránh lặp lỗi.",
-      "Em cần nhấn âm cuối rõ hơn để đảm bảo độ rõ ràng và cũng tránh ảnh hưởng đến ngữ pháp nhé. Em nên luyện đọc chậm và phóng đại âm cuối (/s/, /z/, /t/, /d/, /id/) trong giai đoạn đầu để hình thành thói quen phát âm rõ ràng hơn.",
+      "Một số từ mình cần điều chỉnh phát âm để tránh ảnh hưởng nghe hiểu. Em nên chú ý học phát âm chuẩn ngay từ đầu bằng cách tra phiên âm trong từ điển (Cambridge/Oxford) và luyện lại nhiều lần theo audio mẫu, đặc biệt với các từ thường dùng để tránh lặp lại lỗi.",
+      "Em cần nhấn âm cuối rõ hơn để đảm bảo độ rõ ràng và cũng tránh ảnh hưởng đến ngữ pháp nhé. Em nên luyện đọc chậm và phóng đại âm cuối trong giai đoạn đầu để hình thành thói quen phát âm rõ ràng hơn.",
       "Trọng âm từ cần được nhấn chính xác hơn để tránh người nghe hiểu sai hoặc khó theo dõi ý. Em nên tra phiên âm và trọng âm mỗi từ mới, sau đó luyện đọc to và nhấn đúng trọng âm ngay từ đầu để tạo phản xạ chính xác.",
       "Ngữ điệu của mình vẫn còn hơi bằng ở một số đoạn, cần nhấn nhá hơn để tăng độ tự nhiên và đa dạng. Em nên luyện shadowing với audio bản xứ (BBC, VOA, podcast) để bắt chước cách họ lên xuống giọng nhé.",
-      "Các từ vẫn còn bị phát âm rời rạc, chưa có sự nối âm tự nhiên. Em nên luyện shadowing hằng ngày để học cách nối âm một cách tự nhiên theo người bản xứ nhé.",
-      "Em phát âm từng từ rời rạc, chưa có nối âm hay rút gọn. Em luyện shadowing với podcast/audio bản xứ mỗi ngày — bắt chước cách nối âm và weak forms của họ.",
-      "Có ảnh hưởng từ tiếng mẹ đẻ ở một số âm. Em chú ý phân biệt phonemes tiếng Anh với âm gần giống trong tiếng Việt — không thay thế bằng âm Việt vì sẽ ảnh hưởng intelligibility.",
-      "Một số cặp nguyên âm dài/ngắn em phát giống nhau, làm khó phân biệt nghĩa. Em luyện minimal pairs (ship/sheep, fit/feet, cat/cut, full/fool...) để rèn cảm giác phân biệt.",
-      "Một số đoạn người nghe phải nỗ lực để hiểu. Em chú ý nói chậm và rõ hơn ở những câu quan trọng — ưu tiên độ rõ ràng hơn tốc độ."
+      "Các từ vẫn còn bị phát âm rời rạc, chưa có sự nối âm tự nhiên. Em nên luyện shadowing hằng ngày để học cách nối âm một cách tự nhiên theo người bản xứ nhé."
     ]
   },
   "encouragements": [
@@ -69,6 +62,6 @@
     "Em đọc feedback, ghi chú vào sổ học tập rồi luyện lại bài speaking với những góp ý này. Tiến bộ đến từ việc thực hành — không chỉ đọc xong là xong nhé. Cố lên em!",
     "Em dành 10-15 phút đọc kỹ feedback, sau đó tự luyện lại bài hôm nay một lần nữa với các điểm đã được góp ý. Luyện tập đều đặn em sẽ thấy tiến bộ rõ rệt. Cố gắng nhé!"
   ],
-  "lastUpdated": "2026-05-08T05:38:50.427Z",
+  "lastUpdated": "2026-05-08T05:42:08.727Z",
   "version": 1
 }
