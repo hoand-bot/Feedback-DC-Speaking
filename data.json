@@ -1,13 +1,10 @@
 {
   "presets": {
     "fc-good": [
-      "Em duy trì được tốc độ nói đều và liền mạch, có khả năng nói dài (long turn) mà không cần hỗ trợ thêm.",
-      "Các điểm dừng chủ yếu để tổ chức ý, không phải để tìm từ hay cấu trúc — đây là dấu hiệu fluency tốt.",
-      "Em ít khi phải tự sửa giữa câu hoặc lặp lại để câu giờ, mạch nói trôi đều.",
-      "Em phát triển câu trả lời rộng, không chỉ trả lời thẳng câu hỏi mà còn mở rộng thêm bằng lý do, ví dụ và chi tiết.",
-      "Em sử dụng được nhiều cohesive devices (linking words, discourse markers) khác nhau và đúng ngữ cảnh.",
-      "Các ý em trình bày có sự liên kết logic, người nghe theo dõi được dễ dàng từ ý này sang ý khác.",
-      "Em xử lý các điểm cần dừng bằng filler tự nhiên thay vì im lặng kéo dài."
+      "Em duy trì được tốc độ nói hợp lý và liền mạch, ít khi phải tự sửa giữa câu hoặc lặp lại từ/ý để câu giờ.",
+      "Em có khả năng phát triển câu trả lời khá chi tiết, không chỉ trả lời trực tiếp mà còn mở rộng ý một cách hợp lý và mạch lạc.",
+      "Em sử dụng đa dạng cohesive devices và đúng ngữ cảnh, nên người nghe dễ theo dõi khi em chuyển từ ý này sang ý khác.",
+      "Em đã biết sử dụng các filler tự nhiên để xử lý những khoảng dừng, thay vì im lặng quá lâu."
     ],
     "fc-bad": [
       "Còn nhiều điểm dừng giữa câu để tìm từ hoặc cấu trúc. Em luyện nói theo chunks (cụm từ/cụm cố định) thay vì từng từ riêng lẻ sẽ giảm dần được tình trạng này.",
@@ -91,6 +88,6 @@
     "Em đọc feedback, ghi chú vào sổ học tập rồi luyện lại bài speaking với những góp ý này. Tiến bộ đến từ việc thực hành — không chỉ đọc xong là xong nhé. Cố lên em!",
     "Em dành 10-15 phút đọc kỹ feedback, sau đó tự luyện lại bài hôm nay một lần nữa với các điểm đã được góp ý. Luyện tập đều đặn em sẽ thấy tiến bộ rõ rệt. Cố gắng nhé!"
   ],
-  "lastUpdated": "2026-05-07T12:45:04.654Z",
+  "lastUpdated": "2026-05-08T03:39:05.414Z",
   "version": 1
 }
