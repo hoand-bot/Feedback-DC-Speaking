@@ -2,20 +2,16 @@
   "presets": {
     "fc-good": [
       "Em duy trì được tốc độ nói hợp lý và liền mạch, ít khi phải tự sửa giữa câu hoặc lặp lại từ/ý để câu giờ.",
+      "Em đã biết sử dụng các filler tự nhiên để xử lý những khoảng dừng, thay vì im lặng quá lâu.",
       "Em có khả năng phát triển câu trả lời khá chi tiết, không chỉ trả lời trực tiếp mà còn mở rộng ý một cách hợp lý và mạch lạc.",
-      "Em sử dụng đa dạng cohesive devices và đúng ngữ cảnh, nên người nghe dễ theo dõi khi em chuyển từ ý này sang ý khác.",
-      "Em đã biết sử dụng các filler tự nhiên để xử lý những khoảng dừng, thay vì im lặng quá lâu."
+      "Em sử dụng đa dạng cohesive devices và đúng ngữ cảnh, nên người nghe dễ theo dõi khi em chuyển từ ý này sang ý khác."
     ],
     "fc-bad": [
-      "Còn nhiều điểm dừng giữa câu để tìm từ hoặc cấu trúc. Em luyện nói theo chunks (cụm từ/cụm cố định) thay vì từng từ riêng lẻ sẽ giảm dần được tình trạng này.",
-      "Em quay lại tự sửa câu khá thường xuyên, ảnh hưởng đến độ trôi chảy. Em thử để câu trôi qua dù có lỗi nhỏ rồi diễn đạt lại ý ở câu sau — band Fluency ưu tiên mạch nói liền mạch.",
-      "Em lặp lại từ và cấu trúc khá nhiều. Em chuẩn bị sẵn 2-3 cách diễn đạt cho mỗi tình huống phổ biến (đồng tình, không đồng tình, mô tả, so sánh...) sẽ chủ động hơn khi nói.",
-      "Một số câu trả lời em chưa phát triển đủ ý, mới dừng ở thông tin cơ bản. Em luyện kỹ thuật mở rộng theo công thức \"Trả lời + Lý do + Ví dụ/Chi tiết\" cho cả Part 1 và Part 3.",
-      "Em chưa duy trì được long turn ở Part 2, hay bị \"đứt\" giữa chừng. Em luyện trả lời cue card với timer 2 phút mỗi ngày, không sợ lặp ý, miễn là nói liên tục.",
-      "Linking words em sử dụng còn hạn chế, chủ yếu xoay quanh and/but/so. Em bổ sung dần các nhóm: bổ sung (moreover, furthermore), tương phản (however, on the other hand), nguyên nhân-kết quả (because of, as a result, consequently).",
-      "Một vài chỗ em dùng linking word chưa đúng ngữ cảnh hoặc không đúng nghĩa. Em chú ý học nghĩa và sắc thái của từng linking word, không học chung chung theo nhóm.",
       "Có chỗ em chuyển ý đột ngột mà không có từ nối hoặc dẫn dắt. Em luyện thói quen mở mỗi ý mới bằng một cụm dẫn (\"Speaking of...\", \"Another thing is...\", \"On top of that...\").",
-      "Em phụ thuộc vào \"umm/ahh\" khá nhiều. Em thử thay bằng filler có ý nghĩa như \"Well,...\", \"Let me think...\", \"You know,...\" — vừa câu giờ vừa nghe tự nhiên."
+      "Em phụ thuộc vào \"umm/ahh\" khá nhiều. Em thử thay bằng filler có ý nghĩa như \"Well,...\", \"Let me think...\", \"You know,...\" — vừa câu giờ vừa nghe tự nhiên.",
+      "Một số câu trả lời của em vẫn còn khá cơ bản và cần được phát triển thêm. Em nên mở rộng câu trả lời theo các hướng đã được hướng dẫn để đảm bảo độ dài và độ chi tiết phù hợp với từng part.",
+      "Em sử dụng linking words còn khá hạn chế và đôi khi chuyển ý hơi đột ngột. Em nên đa dạng hóa và sử dụng các từ nối phù hợp hơn để mạch nói rõ ràng và tự nhiên hơn.",
+      "Ở Part 2, em vẫn gặp khó khăn trong việc duy trì câu trả lời dài và trôi chảy trong 2 phút. Mỗi ngày, em nên luyện nói theo cue card và bấm giờ 2 phút để cải thiện khả năng nói liên tục nhé."
     ],
     "lr-good": [
       "Vốn từ của em đủ rộng để diễn đạt nhiều ý tưởng khác nhau mà không bị \"kẹt\".",
@@ -88,6 +84,6 @@
     "Em đọc feedback, ghi chú vào sổ học tập rồi luyện lại bài speaking với những góp ý này. Tiến bộ đến từ việc thực hành — không chỉ đọc xong là xong nhé. Cố lên em!",
     "Em dành 10-15 phút đọc kỹ feedback, sau đó tự luyện lại bài hôm nay một lần nữa với các điểm đã được góp ý. Luyện tập đều đặn em sẽ thấy tiến bộ rõ rệt. Cố gắng nhé!"
   ],
-  "lastUpdated": "2026-05-08T03:39:05.414Z",
+  "lastUpdated": "2026-05-08T03:53:23.392Z",
   "version": 1
 }
